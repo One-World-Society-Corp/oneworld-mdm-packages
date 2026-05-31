@@ -1,0 +1,1 @@
+6da097525b0644dfbdddc3867a23e652485059e1b130bbac4b72291019df0163  releases/macstudio-worker-link/2026.5.31/OneWorld-MacStudio-Worker-Link-2026.05.31-signed.pkg
